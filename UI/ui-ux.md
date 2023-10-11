@@ -59,3 +59,5 @@ Ensure that the color contrasts meet accessibility standards. Tools like the "Co
 This is a foundational design guide. Once implemented, gather feedback from users and iterate as needed. Remember, the best designs often evolve based on real-world usage and feedback. Good luck with your platform!
 
 [Realtime colors v1](https://www.realtimecolors.com/?colors=afc1d4-0e1d20-00bfff-162d32-30bcd5&fonts=Roboto%20Slab-Poppins)
+[Rc v2](https://www.realtimecolors.com/?colors=111718-dfeef1-00bfff-d8e2e4-2ab7cf&fonts=Roboto%20Slab-Poppins)
+[Rc v3 - Orange](https://www.realtimecolors.com/?colors=130e01-fffaeb-ff8400-fff5d6-cf4307&fonts=Poppins-Poppins)
