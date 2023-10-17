@@ -82,7 +82,7 @@
 5. **Database & Data Storage**:
 
    **Flows**:
-   - Set up PostgreSQL connection using an ORM like `sequelize`.
+   - Set up PostgreSQL connection using an ORM like `prisma`.
    - Create migrations for the defined models.
    - Set up periodic database backups.
 
