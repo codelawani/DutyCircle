@@ -61,3 +61,37 @@ This is a foundational design guide. Once implemented, gather feedback from user
 [Realtime colors v1](https://www.realtimecolors.com/?colors=afc1d4-0e1d20-00bfff-162d32-30bcd5&fonts=Roboto%20Slab-Poppins)
 [Rc v2](https://www.realtimecolors.com/?colors=111718-dfeef1-00bfff-d8e2e4-2ab7cf&fonts=Roboto%20Slab-Poppins)
 [Rc v3 - Orange](https://www.realtimecolors.com/?colors=130e01-fffaeb-ff8400-fff5d6-cf4307&fonts=Poppins-Poppins)
+:root[data-theme="light"] {
+  --text: #2b3d50;
+  --background: #f1dfdf;
+  --primary: #0099ff;
+  --secondary: #eacde8;
+  --accent: #ffcc00;
+}
+:root[data-theme="dark"] {
+  --text: #afc1d4;
+  --background: #200e0e;
+  --primary: #0099ff;
+  --secondary: #321530;
+  --accent: #ffcc00;
+}
+:root[data-theme="light"] {
+  --text: #2b3d50;
+  --background: #f1f1f1;
+  --primary: #0099ff;
+  --secondary: #f7f7f7;
+  --accent: #ff9900;
+}
+
+:root[data-theme="dark"] {
+  --text: #afc1d4;
+  --background: #200e0e;
+  --primary: #0099ff;
+  --secondary: #321530;
+  --accent: #ff9900;
+}
+--text: #2b3d50;
+--background: #f1f1f1;
+--primary: #0099ff;
+--secondary: #f7f7f7;
+--accent: #ff9900;
